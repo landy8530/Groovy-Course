@@ -11,3 +11,7 @@ http://groovy-lang.org/objectorientation.html
 ## Closures
 
 http://groovy-lang.org/closures.html
+
+## Program Structure
+
+http://groovy-lang.org/structure.html
